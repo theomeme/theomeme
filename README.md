@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my personal site**
 
-- 🌱 I’m currently learning **C and Web Development**
+- 🌱 I’m currently learning **Data Structures and Web Development**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
