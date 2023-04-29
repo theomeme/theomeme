@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Theo</h1>
 <h3 align="center">A software engineer student</h3>
 
-- 🔭 I’m currently working on **my personal site**
+- 🔭 I’m currently working on **A Chat Application**
 
-- 🌱 I’m currently learning **Data Structures and Web Development**
+- 🌱 I’m currently learning **Data Structures and Mobile Development**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **Linux**
+- 💬 Ask me about **Open Source**
 
 - 📫 How to reach me **theodoromimura1@gmail.com**
 
