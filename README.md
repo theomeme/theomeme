@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A Chat Application**
 
-- 🌱 I’m currently learning **Data Structures and Mobile Development**
+- 🌱 I’m currently learning **DSA and Flutter**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
