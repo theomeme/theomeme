@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Theo</h1>
 <h3 align="center">A software engineer student</h3>
 
-- 🔭 I’m currently working on **A Chat Application**
+- 🔭 I’m currently working on **A GO CRUD**
 
-- 🌱 I’m currently learning **DSA and Flutter**
+- 🌱 I’m currently learning **DSA and GO**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
