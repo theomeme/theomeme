@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Theo</h1>
 <h3 align="center">A software engineer student</h3>
 
-- 🔭 I’m currently working on **A GO CRUD**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **DSA and GO**
+- 🌱 I’m currently learning **DSA and ReactJs**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate on **Web projects**
 
 - 💬 Ask me about **Open Source**
 
